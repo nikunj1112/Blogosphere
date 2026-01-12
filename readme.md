@@ -217,9 +217,12 @@ https://drive.google.com/file/d/1cu7uBUPChXwIU0MtelnC3EO0lIosB08a/view?usp=shari
 <img width="450" height="500" alt="Screenshot 2026-01-13 at 12 08 38 AM" src="https://github.com/user-attachments/assets/7246ab87-9d0b-4b8e-94cd-c0611926fa73" />
 <img width="450" height="500" alt="Screenshot 2026-01-13 at 12 09 03 AM" src="https://github.com/user-attachments/assets/0f977f0e-893f-48da-bdb0-b0158e3dabb4" />
 <img width="450" height="500" alt="Screenshot 2026-01-13 at 12 09 14 AM" src="https://github.com/user-attachments/assets/c38852c4-195c-4e8e-91df-df59a891e971" />
-<img width="450" height="500" alt="Screenshot 2026-01-13 at 12 09 34 AM" src="https://github.com/user-attachments/assets/38a18f4f-a681-46c9-bf02-ed741fa4d81e" />
+<!-- <img width="450" height="500" alt="Screenshot 2026-01-13 at 12 09 34 AM" src="https://github.com/user-attachments/assets/38a18f4f-a681-46c9-bf02-ed741fa4d81e" /> -->
 <img width="450" height="500" alt="Screenshot 2026-01-13 at 12 09 55 AM" src="https://github.com/user-attachments/assets/4b158ea9-afb5-496a-8075-f9b4bc204426" />
-<img width="498" height="832" alt="Screenshot 2026-01-13 at 12 10 24 AM" src="https://github.com/user-attachments/assets/103c8e3c-d258-4327-a06f-22863184ed9f" />
+
+
+<img width="450" height="832" alt="Screenshot 2026-01-13 at 12 10 24 AM" src="https://github.com/user-attachments/assets/103c8e3c-d258-4327-a06f-22863184ed9f" />
+
 
 
 
