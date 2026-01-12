@@ -1,4 +1,4 @@
-# 📝 Blogosphere — A Modern Full-Stack Blogging Platform (MERN + OTP Auth + Image Upload)
+# ✍️ Blogosphere — A Modern Full-Stack Blogging Platform (MERN + OTP Auth + Image Upload)
 
 Blogosphere is a fully featured MERN-based blogging platform that allows users to authenticate securely using OTP-based login, create and manage blog posts with images, update or delete their content, and interact with a visually appealing responsive UI built using React & Tailwind CSS.
 
@@ -71,45 +71,90 @@ This project showcases advanced MERN concepts including secure authentication, f
 | CORS | Security Configuration |
 
 ---
-
-# 📂 Project Directory Structure
+## 🌲 Project Directory Structure (Stylish Tree)
 
 ```
-project-root/
+BLOGOSPHERE/
 │
-├── backend/
-│   ├── config/
-│   │   ├── db.js
-│   │   ├── mail.js
-│   │   └── jwt.js
+├── 🌲 Backend/
+│   ├── 📦 config/
+│   │   └── 📄 db.js
 │   │
-│   ├── controllers/
-│   │   ├── authController.js
-│   │   └── blogController.js
+│   ├── 📁 controllers/
+│   │   ├── 📄 autoController.js
+│   │   ├── 📄 blogController.js
+│   │   └── 📄 otpController.js
 │   │
-│   ├── models/
-│   │   ├── userModel.js
-│   │   └── blogModel.js
+│   ├── 🧱 middlewares/
+│   │   └── 📄 authMiddleware.js
 │   │
-│   ├── routes/
-│   │   ├── authRoutes.js
-│   │   └── blogRoutes.js
+│   ├── 🗂 models/
+│   │   ├── 📄 authModel.js
+│   │   ├── 📄 blogModel.js
+│   │   └── 📄 otpModel.js
 │   │
-│   ├── middleware/
-│   │   └── authMiddleware.js
+│   ├── 🚏 routes/
+│   │   ├── 📄 authRoutes.js
+│   │   ├── 📄 blogRoutes.js
+│   │   └── 📄 otpRoutes.js
 │   │
-│   ├── uploads/     (image storage)
-│   └── index.js
+│   ├── ⚙️ services/
+│   │   └── 📄 service.js
+│   │
+│   ├── 🖼 uploads/
+│   │   └── 📁 blogs/
+│   │
+│   ├── 🔐 .env
+│   ├── 📦 package.json
+│   ├── 📦 package-lock.json
+│   └── 🚀 server.js
 │
-└── frontend/
-    ├── src/
-    │   ├── pages/
-    │   ├── components/
-    │   ├── context/
-    │   ├── utils/
-    │   ├── App.jsx
-    │   └── main.jsx
-    └── tailwind.config.js
+├── 🌲 Frontend/
+│   ├── 🧩 node_modules/
+│   │
+│   ├── 🌐 public/
+│   │   └── 🖼 vite.svg
+│   │
+│   ├── 💻 src/
+│       ├── 🖼 assets/
+│       │
+│       ├── 🧩 components/
+│       │   ├── 📄 blogCard.jsx
+│       │   ├── 📄 footer.jsx
+│       │   ├── 📄 navbar.jsx
+│       │   └── 📄 protectedRoute.jsx
+│       │
+│       ├── 🔌 context/
+│       │   └── 📄 authContext.jsx
+│       │
+│       ├── 📄 pages/
+│       │   ├── 📄 blogDetails.jsx
+│       │   ├── 📄 createBlog.jsx
+│       │   ├── 📄 home.jsx
+│       │   ├── 📄 otpVerify.jsx
+│       │   ├── 📄 profile.jsx
+│       │   ├── 📄 signIn.jsx
+│       │   └── 📄 signUp.jsx
+│       │
+│       ├── 🛠 utils/
+│       │   └── 📄 api.js
+│       │
+│       ├── 🎨 App.css
+│       ├── 📄 App.jsx
+│       ├── 🎨 index.css
+│       └── 📄 main.jsx
+│
+│   ├── 📄 .gitignore
+│   ├── 🔍 eslint.config.js
+│   ├── 🌐 index.html
+│   ├── 📦 package.json
+│   ├── 📦 package-lock.json
+│   ├── 📘 README.md
+│   ├── 🎨 tailwind.config.js
+│   └── 📦 vite.config.js
+│
+└── 📘 README.md (root)
+
 ```
 
 ---
@@ -118,7 +163,7 @@ project-root/
 
 ## **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/YOUR-USERNAME/blogosphere.git
+git clone https://github.com/nikunj1112/blogosphere.git
 cd blogosphere
 ```
 
@@ -328,6 +373,6 @@ This project is distributed under **MIT License** — free to use, distribute & 
 
 # 👨‍💻 Author
 
-Developed with ❤️ by **Your Name**  
+Developed with ❤️ by **RANA NIKUNJ ⚜️**  
 If you use it or like it, ⭐ the repo!
 
