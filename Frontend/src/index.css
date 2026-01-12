@@ -1,0 +1,16 @@
+@import "tailwindcss";
+:root {
+    --foreground: hsl(330 36.24% 24.19%); /* Elegant deep plum */
+  }
+  
+  body {
+    font-family: "Playfair Display", Georgia, serif;
+    color: var(--foreground);
+    background-color: #fff;
+    -webkit-font-smoothing: antialiased;
+  }
+  
+  .text-foreground {
+    color: var(--foreground);
+  }
+  
